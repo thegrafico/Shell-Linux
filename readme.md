@@ -1,7 +1,9 @@
-  								BIENVENIDOS AL SHELL
+  BIENVENIDOS AL SHELL
+
   Manual Proyecto final Operative System
 
   los comandos que se implementados en este proyecto son:
+
 	*Clr -------> Limpia la pantalla
 
   *environ ---> Muestra todas las variables de ambiente que se encuentra en nuestro shell
