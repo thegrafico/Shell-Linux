@@ -16,7 +16,7 @@
 
   *help -------> muestra el manual de informacion del shell
 
-  *quit ------> cierra el shell
+  *quit ------> cierra el shell*
 
 	Esos son algunos de los comandos implementados en el shell, sin embargo,
   podemos invocar otros comandos ya que la implementacion de como corren los comandos se hizo
@@ -39,7 +39,7 @@
 
       *En nuestro shell escribimos cualquier de los comandos ya descritos
 
-      *quit para cerrar nuestro shell
+      *quit para cerrar nuestro shell*
 
   Otra de las ventajas que tenemos en el shell es que podemos realizar input/output redirection
   (Redireccionar entradas y salidas) de nuestro shell, es decir, podemos correr programas sin nececidad
@@ -54,7 +54,7 @@
 
             *parametro1 > nombreDelArchivo
 
-            *parametro1 parametro2 > nombreDelArchivo
+            *parametro1 parametro2 > nombreDelArchivo*
 
     donde nuestros parametros son los comandos que queramos correr. y el nombre del
     archivo es el nombre del archivo que queremos crear si no esta creado o sobreescribir
@@ -66,7 +66,7 @@
     comando	en nuestro shell. Cuando sepamos esto, nos bastara con, antes de correr nuestro
     shell, poner el ejecutable de nuestro shell y hacer el redirection, ejemplo:
 
-    				* ./NombreDeNuestroEjecutableShell < ArchivoConComandos
+    				* ./NombreDeNuestroEjecutableShell < ArchivoConComandos*
 
 		debemos tomar en cuenta que el archivo con los comandos debe estar escrito correctamente y
 		de que si hay un comando que no exista probocara un error interno.
